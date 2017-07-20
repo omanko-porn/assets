@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "svgo": "^0.7.2"
+  },
+  "description": "Resources of omanko.porn",
+  "name": "omanko-porn-assets",
+  "private": true,
+  "scripts": {
+    "build": "svgo -f src -o dist"
+	},
+  "version": "1.0.0"
+}
