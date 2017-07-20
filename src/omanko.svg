@@ -1,16 +1,9 @@
-<svg fill="white" height="24" stroke="black" stroke-width="0.5" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-  <line transform="rotate(22.5 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(45 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(67.5 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(90 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(112.5 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(135 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(157.5 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(180 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(202.5 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(225 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <line transform="rotate(247.5 12 12)" x1="12" x2="12" y1="0.5" y2="23.5"/>
-  <circle cx="12" cy="12" r="9"/>
-  <circle cx="12" cy="12" r="6"/>
-  <line x1="12" x2="12" y1="0" y2="24"/>
+<svg fill="white" height="24" stroke="black" stroke-width="1" viewBox="-24 -24 48 48" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,23V-23zM23,0H-23"/>
+  <path d="M0,23V-23zM23,0H-23" transform="rotate(22.5)"/>
+  <path d="M0,23V-23zM23,0H-23" transform="rotate(45)"/>
+  <path d="M0,23V-23zM23,0H-23" transform="rotate(67.5)"/>
+  <circle r="18"/>
+  <circle r="12"/>
+  <path d="M0,24V-24"/>
 </svg>
