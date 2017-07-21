@@ -6,7 +6,7 @@
   "name": "omanko-porn-assets",
   "private": true,
   "scripts": {
-    "build": "svgo -f src -o dist"
+    "build": "svgo --config .svgo.yml -f src -o dist"
 	},
   "version": "1.0.0"
 }
